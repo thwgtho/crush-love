@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Làm người yêu tớ nhé I Love You",
+  titleHeader: "Chin chào bạn bé",
   descriptionHeader:
-    "Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^",
-  buttonYes: "Đồng Ý",
-  buttonNo: "Không! Còn lâu nhé.",
-  titleModar: "Cảm ơn em vì đồng ý",
+    "Bạn đã được gửi tới gói nguoiiu dùng thử 4M, giờ bạn có muốn nhận bản premium không? Lưu ý, bản này có thời hạn vĩnh viễn và người nhận cần trả phí là nhiều nụ hun!",
+  buttonYes: "Đồng ý",
+  buttonNo: "Sao cũng được",
+  titleModar: "Chúc mừng nlth đã nhận được nguoiiu premium",
   descriptionModar:
-    'Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> Cám ơn cậu đã đồng ý để cho tớ được che chở và bảo vệ cậu.Đối với tớ, cậu mãi là cô bé :)) </br> "Thích cậu nhiều đến mấy, cậu sẽ hiểu thôi. </br>  Tớ thích cậu nhiều đến mấy, cậu sẽ hiểu thôi "',
+    'Vui lòng qua mess nhắn "yêu chị" để kích hoạt lại </br> Cám ơn quý khách sử dụng dịch vụ của chúng tôi </br> "Thíc</br> Nếu hài lòng về dịch vụ hãy đánh giá 5* cho chúng tôi nhé"',
 };
